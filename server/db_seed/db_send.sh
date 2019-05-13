@@ -1,0 +1,1 @@
+d:\app\mongodb\bin\mongo.exe researchgroup --eval "load('d:\/work\/1812_ResearchGroup.server\/server\/db_seed\/mongo_db_send.js.js');"
